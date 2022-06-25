@@ -8,6 +8,7 @@ Grid Responsive Layout (with `SCSS` + `JS`)
 
 # [🌐 배포](https://thisisyjin.github.io/grid-mood-layout/)
 
+> ❗️ 초반 렉이 생길 수 있으나, 이미지 로딩 후에는 렉이 사라집니다 :)
 
 <br />
 
